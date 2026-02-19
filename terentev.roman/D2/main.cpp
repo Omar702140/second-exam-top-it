@@ -1,6 +1,6 @@
 #include <iostream>
-
-int main(int argc, char* argv[]) {
+int main(int argc, char* argv[])
+{
   bool rev = false;
   if (argc == 1) {
     rev = false;
