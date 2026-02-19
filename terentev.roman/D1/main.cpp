@@ -4,9 +4,9 @@ int main() {
   size_t n = 0;
   char ch;
   char* a = nullptr;
-  size_t size = 0
+  size_t size = 0;
   size_t cap = 0;
-  bool ok = true
+  bool ok = true;
   bool done = false;
   while (ok && !done) {
     if (!(std::cin >> n)) {
